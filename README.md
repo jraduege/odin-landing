@@ -1,0 +1,1 @@
+This is a practice landing page for the odin project curriculum.   It is for a non-existant dahlia business.  All images are my own and all rights are reserved. 
